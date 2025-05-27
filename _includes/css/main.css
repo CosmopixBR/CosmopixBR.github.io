@@ -146,6 +146,24 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+
+        /* Estilo do subtítulo */
+    .navbar-fixed-top .navbar-brand .navbar-subtitle {
+        font-size: 0.5em; /* Metade do tamanho do título principal */
+        font-weight: 400;
+        opacity: 0.9;
+        margin-top: 3px;
+        -webkit-transition: all .3s;
+        -moz-transition: all .3s;
+        transition: all .3s;
+    }
+
+    /* Versão reduzida (shrink) */
+    .navbar-fixed-top.navbar-shrink .navbar-brand .navbar-subtitle {
+        font-size: 0.4em; /* Um pouco menor quando a navbar encolher */
+        margin-top: 2px;
+    }
+
 }
 
 .navbar {
