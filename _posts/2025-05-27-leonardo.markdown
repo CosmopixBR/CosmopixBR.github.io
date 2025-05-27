@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2025-05-27
+img: leonardo.png
+alt: image-alt
+project-date: May 2025
+client: Start Bootstrap
+category: Cosmopix Games
+description: Sound Mage
+---

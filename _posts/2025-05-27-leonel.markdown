@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2025-05-27
+img: leonel.png
+alt: image-alt
+project-date: May 2025
+client: Start Bootstrap
+category: Cosmopix Games
+description: Zeitgeist Aristocrat
+---

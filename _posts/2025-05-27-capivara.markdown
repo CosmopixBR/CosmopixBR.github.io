@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2025-05-27
+img: capivara.png
+alt: image-alt
+project-date: May 2025
+client: Start Bootstrap
+category: Random
+description: Apenas uma capivara.
+---

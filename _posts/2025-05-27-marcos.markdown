@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2025-05-27
+img: marcos.png
+alt: image-alt
+project-date: May 2025
+client: Start Bootstrap
+category: Cosmopix Games
+description: Art Warchief
+---

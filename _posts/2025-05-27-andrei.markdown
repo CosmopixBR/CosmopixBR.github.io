@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2025-05-27
+img: andrei.png
+alt: image-alt
+project-date: May 2025
+client: Start Bootstrap
+category: Cosmopix Games
+description: Elite Ambassador
+---
