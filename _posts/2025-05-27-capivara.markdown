@@ -8,4 +8,5 @@ project-date: May 2025
 client: Start Bootstrap
 category: Random
 description: Apenas uma capivara.
+nome-estudio: Estúdio da Capivara
 ---

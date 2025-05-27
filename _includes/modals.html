@@ -13,13 +13,20 @@
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
-            <h2>{{ post.title }}</h2>
+            <h2>{{ post.nome-estudio }}</h2>
             <hr class="star-primary">
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+
+            <!-- Vou forçar as imagens a serem reduzidas aqui, porque o 900x650 ta muito grande, tem jeitos mais eficientes usando plugin do Jekyll, pesquisar para implementar depois (jekyll-responsive-image)  -->
+          
+            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"  style="max-width: 600px; max-height: 400px;">
+            
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
-            <ul class="list-inline item-details">
+
+            <!-- Andrei: aqui estão as informações abaixo da descrição de cada estúdio. Vou desativar por enquanto porque quero apenas a descrição, para teste -->
+
+            <!-- <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:
                 <strong>{{ post.client }}</strong>
@@ -35,7 +42,9 @@
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
-            </ul>
+            </ul> -->
+
+
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
           </div>

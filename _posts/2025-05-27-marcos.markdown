@@ -8,4 +8,5 @@ project-date: May 2025
 client: Start Bootstrap
 category: Cosmopix Games
 description: Art Warchief
+nome-estudio: Estúdio do Marcos
 ---

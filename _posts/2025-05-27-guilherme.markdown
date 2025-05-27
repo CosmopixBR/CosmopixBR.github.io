@@ -8,4 +8,5 @@ project-date: May 2025
 client: Start Bootstrap
 category: Cosmopix Games
 description: Paladin Programmer
+nome-estudio: Estúdio do Guilherme
 ---

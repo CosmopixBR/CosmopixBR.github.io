@@ -8,4 +8,5 @@ project-date: May 2025
 client: Start Bootstrap
 category: Cosmopix Games
 description: Elite Ambassador
+nome-estudio: Estúdio do Andrei
 ---
